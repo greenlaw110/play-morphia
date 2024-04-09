@@ -53,7 +53,7 @@
 #        - trim value when processing where statement in Factory.fetch
 # 1.2.5 - mavenize project
 # 1.2.4d - Add BlobGsonAdapter and ModelFactoryGsonAdapter utilities
-self: play -> morphia 1.7.0
+self: play -> morphia 1.7.1
 require:
     - play 1.4.4
     - org.mongodb -> mongo-java-driver 3.12.14
